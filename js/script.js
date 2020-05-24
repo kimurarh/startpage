@@ -9,11 +9,11 @@ function myGreeting() {
     document.getElementById("calendar").innerHTML = week[today.getDay()] + ", " + month[today.getMonth()] + " " + today.getDate();
 
     if (time >= 6 && time < 12) {
-        document.getElementById("greeting").innerHTML = "Good Morning, Hideki!";
+        document.getElementById("greeting").innerHTML = "Good Morning, Kimura!";
     } else if (time >= 12 && time < 17) {
-        document.getElementById("greeting").innerHTML = "Good Afternoon, Hideki!";
+        document.getElementById("greeting").innerHTML = "Good Afternoon, Kimura!";
     } else {
-        document.getElementById("greeting").innerHTML = "Good Evening, Hideki!";
+        document.getElementById("greeting").innerHTML = "Good Evening, Kimura!";
     }
 
 }
