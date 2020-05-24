@@ -1,3 +1,3 @@
 # startpage
-Custom startpage with links to most used webpages
-kimurarh.github.io/startpage
+Custom startpage with some links
+[Kimura's startpage](https://kimurarh.github.io/startpage/)
