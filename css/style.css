@@ -95,6 +95,10 @@ html {
 
 /* Smartphone size */
 @media (max-width: 425px) {
+    #container {
+        padding-top: 100px;
+    }
+    
     #container #boxes {
         grid-template-columns: 1fr;
         width: 70%;
